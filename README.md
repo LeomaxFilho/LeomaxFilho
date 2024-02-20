@@ -1,9 +1,3 @@
-<p align="center">
-
-  <img height = "190em" src="banner.gif" alt="animated" />
-
-</p>
-
 <h1 align="center"> Hello , I'm Leo! </h1>
 
 

@@ -38,7 +38,7 @@
 
 <div align = "left">
 
-<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=LeomaxFilho&show_icons=true&theme=transparent&title_color=ADBC9F&text_color=FBFADA&icon_color=436850&hide_border=true&locale=en&count_private=true"/>
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeomaxFilho&show_icons=true&theme=transparent&title_color=ADBC9F&text_color=FBFADA&icon_color=436850&hide_border=true&locale=en&count_private=true"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=LeomaxFilho&show_icons=true&theme=transparent&title_color=ADBC9F&text_color=FBFADA&icon_color=436850&hide_border=true&locale=en&count_private=true"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeomaxFilho&show_icons=true&theme=transparent&title_color=ADBC9F&text_color=FBFADA&icon_color=436850&hide_border=true&locale=en&count_private=true"/>
 
 </div>

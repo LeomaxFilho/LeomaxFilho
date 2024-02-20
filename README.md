@@ -7,25 +7,30 @@
 <h1 align="center"> Hello , I'm Leo! </h1>
 
 
-## About me 🙃
+## _About me_
 
 - [x] 📓 Graduating in Computer Engineering from the Federal University of Paraíba.
 - [x] 📧 How to contact me: leomax.filho@gmail.com
 
-## Skills
+## _Skills_
 * ### Back
-![Static Badge](https://img.shields.io/badge/C-12372A?style=for-the-badge&logo=C&logoColor=ADBC9F)
-![Static Badge](https://img.shields.io/badge/Pyton-12372A?style=for-the-badge&logo=python&logoColor=ADBC9F)
-![Static Badge](https://img.shields.io/badge/C%23-12372A?style=for-the-badge&logo=C%23&logoColor=ADBC9F)
+![c](https://img.shields.io/badge/C-12372A?style=for-the-badge&logo=C&logoColor=ADBC9F)
+![C#](https://img.shields.io/badge/C%23-12372A?style=for-the-badge&logo=C%23&logoColor=ADBC9F)
+![python](https://img.shields.io/badge/Pyton-12372A?style=for-the-badge&logo=python&logoColor=ADBC9F)
+
 
 * ### Back
-![Static Badge](https://img.shields.io/badge/Css3-12372A?style=for-the-badge&logo=Css3&logoColor=ADBC9F)
-![Static Badge](https://img.shields.io/badge/html5-12372A?style=for-the-badge&logo=html5&logoColor=ADBC9F)
+![css](https://img.shields.io/badge/Css3-12372A?style=for-the-badge&logo=Css3&logoColor=ADBC9F)
+![html](https://img.shields.io/badge/html5-12372A?style=for-the-badge&logo=html5&logoColor=ADBC9F)
 
 * ### Extras
 ![Static Badge](https://img.shields.io/badge/git-12372A?style=for-the-badge&logo=git&logoColor=ADBC9F)
-![Static Badge](https://img.shields.io/badge/github-12372A?style=for-the-badge&logo=github&logoColor=ADBC9F&link=https%3A%2F%2Fgithub.com%2FLeomaxFilho)
+[![GitHub](https://img.shields.io/badge/github-12372A?style=for-the-badge&logo=github&logoColor=ADBC9F&link=https%3A%2F%2Fgithub.com%2FLeomaxFilho)](https://github.com/LeomaxFilho)
 
+## _Contact me_
+[![Instagram](https://img.shields.io/badge/Instagram%20%40LeomaxFilho-12372A?style=for-the-badge&logo=Instagram&logoColor=ADBC9F)](https://www.instagram.com/leomaxfilho/)
+>
+[![Linkedin](https://img.shields.io/badge/Linkedin%20in%2Fleomaxfilho-12372A?style=for-the-badge&logo=Linkedin&logoColor=ADBC9F)](https://www.linkedin.com/in/leomaxfilho/)
 
 
 

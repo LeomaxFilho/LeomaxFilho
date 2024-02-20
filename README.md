@@ -7,16 +7,24 @@
 <h1 align="center"> Hello , I'm Leo! </h1>
 
 
-## About me
+## About me 🙃
 
 - [x] 📓 Graduating in Computer Engineering from the Federal University of Paraíba.
 - [x] 📧 How to contact me: leomax.filho@gmail.com
 
 ## Skills
-
+* ### Back
 ![Static Badge](https://img.shields.io/badge/C-12372A?style=for-the-badge&logo=C&logoColor=ADBC9F)
 ![Static Badge](https://img.shields.io/badge/Pyton-12372A?style=for-the-badge&logo=python&logoColor=ADBC9F)
 ![Static Badge](https://img.shields.io/badge/C%23-12372A?style=for-the-badge&logo=C%23&logoColor=ADBC9F)
+
+* ### Back
+![Static Badge](https://img.shields.io/badge/Css3-12372A?style=for-the-badge&logo=Css3&logoColor=ADBC9F)
+![Static Badge](https://img.shields.io/badge/html5-12372A?style=for-the-badge&logo=html5&logoColor=ADBC9F)
+
+* ### Extras
+![Static Badge](https://img.shields.io/badge/git-12372A?style=for-the-badge&logo=git&logoColor=ADBC9F)
+![Static Badge](https://img.shields.io/badge/github-12372A?style=for-the-badge&logo=github&logoColor=ADBC9F&link=https%3A%2F%2Fgithub.com%2FLeomaxFilho)
 
 
 

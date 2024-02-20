@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img height = "190em" src="https://i.gifer.com/7rFB.gif" alt="animated" />
+  <img height = "190em" src="banner.gif" alt="animated" />
 
 </p>
 

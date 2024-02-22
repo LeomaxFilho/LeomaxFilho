@@ -9,7 +9,7 @@
 ## _Skills_
 * ### Back
 ![c](https://img.shields.io/badge/C-12372A?style=for-the-badge&logo=C&logoColor=ADBC9F)
-[//]: <> (![C#](https://img.shields.io/badge/C%23-12372A?style=for-the-badge&logo=C%23&logoColor=ADBC9F))
+[//]: # (![C#](https://img.shields.io/badge/C%23-12372A?style=for-the-badge&logo=C%23&logoColor=ADBC9F))
 ![python](https://img.shields.io/badge/Pyton-12372A?style=for-the-badge&logo=python&logoColor=ADBC9F)
 
 

@@ -19,7 +19,7 @@
 ![css](https://img.shields.io/badge/Css3-12372A?style=for-the-badge&logo=Css3&logoColor=ADBC9F)
 ![html](https://img.shields.io/badge/html5-12372A?style=for-the-badge&logo=html5&logoColor=ADBC9F)
 
-* ### Extras
+* ### Web
 ![Static Badge](https://img.shields.io/badge/git-12372A?style=for-the-badge&logo=git&logoColor=ADBC9F)
 [![GitHub](https://img.shields.io/badge/github-12372A?style=for-the-badge&logo=github&logoColor=ADBC9F&link=https%3A%2F%2Fgithub.com%2FLeomaxFilho)](https://github.com/LeomaxFilho)
 
